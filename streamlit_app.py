@@ -1,4 +1,3 @@
-! pip install sodapy
 
 import pandas as pd
 from sodapy import Socrata
